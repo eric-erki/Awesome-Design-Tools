@@ -467,6 +467,7 @@ This section mentions developmenttools and browsers. Development browsers have f
 * [Firefox developer edition](https://www.mozilla.org/en-US/firefox/developer/) — developer edition of the Firefox browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 * [Litmus](https://litmus.com/) — an email campaign creation platform that, amongst other things, lets you see how HTML emails will appear in a wide variety of email clients.
 * [Polypane](https://polypane.rocks) — a browser built from the ground up to create and test websites and apps. 
+* [NextJSON](https://nextjson.com/) — a free online nested JSON parser, formatter and toolbox for viewing and debugging JSON in the browser. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 
 Among other development tools:
 * [Storybook](https://storybook.js.org/) - an open source tool for developing UI components in isolation for React, Vue, and Angular. It makes building stunning UIs organized and efficient. ![open-source.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/open-source.svg) ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
